@@ -2,7 +2,7 @@
 
 # xuperchain-vue: 政务系统后端代码
 
-English | [简体中文](./README-zh.md)
+[English](./README.md) | 简体中文
 
 > 一个极简的政务系统；
 
