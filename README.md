@@ -8,7 +8,7 @@ English | [简体中文](./README-zh.md)
 
 **https://github.com/UnderRose520/xuperchain-go
 
-##Project preparation
+## Project preparation
 ```
 #Install the following environments:
 go >= 1.12.x &amp;&amp; <= 1.13.x
