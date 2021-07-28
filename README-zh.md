@@ -1,33 +1,30 @@
 
-<<<<<<< HEAD
 
-# xuperchain-vue: Government affairs system back-end code
+# xuperchain-vue: 政务系统后端代码
 
 English | [简体中文](./README-zh.md)
 
-> A minimal Government affairs system；
+> 一个极简的政务系统；
 
 **https://github.com/UnderRose520/xuperchain-go
 
 ## Build Setup
 
 ```
-# clone the project
+# 克隆项目
 git clone https://github.com/UnderRose520/xuperchain-go.git
 
 
-# open directory:Open with GoLand
+# 打开目录:使用 GoLand打开
 
-# download GitHub dependencies
+# 下载github依赖
 
-# run
+# 运行
 ```
 
 
 ## License
 
 [MIT](https://github.com/UnderRose520/xuperchain-go/blob/master/LICENSE) license.
-
-Copyright (c) 2021-present Yang Shuwu &Qi Lianfeng &Zhu Chenghang &Non Chengyi &Huang Xiuwei
 =======
-
+Copyright (c) 2021-present Yang Shuwu &Qi Lianfeng &Zhu Chenghang &Non Chengyi &Huang Xiuwei
