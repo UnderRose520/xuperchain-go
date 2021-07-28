@@ -27,6 +27,6 @@ git clone https://github.com/UnderRose520/xuperchain-go.git
 
 [MIT](https://github.com/UnderRose520/xuperchain-go/blob/master/LICENSE) license.
 
-##Copyright (c) 2021-present Yang Shuwu &Qi Lianfeng &Zhu Chenghang &Non Chengyi &Huang Xiuwei
+Copyright (c) 2021-present Yang Shuwu &Qi Lianfeng &Zhu Chenghang &Non Chengyi &Huang Xiuwei
 =======
 
